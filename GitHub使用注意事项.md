@@ -34,7 +34,15 @@ git config --global http.proxy http://地址:本机端口
 
 在网上看到将本地文件同步上传的方法有一点复杂，本人采取方式为，在github上先创建一个repo,然后将该repo clone到本地，然后在本地正常进行add ,commit,push操作即可。
 
+#### 3.! [remote rejected] main -> main (failure) error: failed to push some refs to---GitHub可能会宕机
+
+![image-20230509201004608](C:\Users\Matrix\AppData\Roaming\Typora\typora-user-images\image-20230509201004608.png)
 
 
 
+遇事不慌，遇到上述情况，大概率是GitHub宕机了，可以查看[GitHubStatus](https://www.githubstatus.com/)了解一下相关信息。等团队解决了就可以了继续使用了。
+
+Take it easy.GitHub may be experiencing some issues.You can look through [GitHubStatus](https://www.githubstatus.com/) to get some information.Just wait for a moment,then you can use GitHub as usual.
+
+<img src="C:\Users\Matrix\AppData\Roaming\Typora\typora-user-images\image-20230509202227521.png" alt="image-20230509202227521" style="zoom:80%;" />
 
