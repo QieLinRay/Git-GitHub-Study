@@ -1,4 +1,4 @@
-#  About GitHub----GitHub 相关
+#  About Git，Github
 
 ##### 开始加入Github不久，将在此记录和分享与Github有关的问题、信息、以及解决方案。希望能够帮到刚刚入门的各位。
 
